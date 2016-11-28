@@ -19,3 +19,17 @@
 
 ## Тема
 Книжковий менеджер.
+
+## Установка і запуск (необхідно: node.js v6+, npm 3+, MongoDB)
+1. Клонувати репозиторій - git clone https://github.com/BabalaV/book_manager.git
+2. Перейти у фолдер проекта
+3. Запустити команду npm install
+4. Запустти команду nodemon app або node app
+
+## Технології, які були використані:
+1. Node.js v7
+2. Express
+3. MongoDB, Mongoose
+4. AngularJS
+5. Bootstrap
+6. Pasport.js
